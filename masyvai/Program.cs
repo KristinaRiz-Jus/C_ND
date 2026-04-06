@@ -26,6 +26,8 @@ namespace masyvai
 
         Console.WriteLine("\n---- Task 7 ----");
         Task7.Run();
+
+        GuessNumberGame.Run();
     }
 }
 }

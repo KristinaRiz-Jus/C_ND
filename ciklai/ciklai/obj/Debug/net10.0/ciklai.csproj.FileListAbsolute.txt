@@ -1,0 +1,14 @@
+c:\Users\Kristina\Desktop\c#\ciklai\ciklai\bin\Debug\net10.0\ciklai.exe
+c:\Users\Kristina\Desktop\c#\ciklai\ciklai\bin\Debug\net10.0\ciklai.deps.json
+c:\Users\Kristina\Desktop\c#\ciklai\ciklai\bin\Debug\net10.0\ciklai.runtimeconfig.json
+c:\Users\Kristina\Desktop\c#\ciklai\ciklai\bin\Debug\net10.0\ciklai.dll
+c:\Users\Kristina\Desktop\c#\ciklai\ciklai\bin\Debug\net10.0\ciklai.pdb
+c:\Users\Kristina\Desktop\c#\ciklai\ciklai\obj\Debug\net10.0\ciklai.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kristina\Desktop\c#\ciklai\ciklai\obj\Debug\net10.0\ciklai.AssemblyInfoInputs.cache
+c:\Users\Kristina\Desktop\c#\ciklai\ciklai\obj\Debug\net10.0\ciklai.AssemblyInfo.cs
+c:\Users\Kristina\Desktop\c#\ciklai\ciklai\obj\Debug\net10.0\ciklai.csproj.CoreCompileInputs.cache
+c:\Users\Kristina\Desktop\c#\ciklai\ciklai\obj\Debug\net10.0\ciklai.dll
+c:\Users\Kristina\Desktop\c#\ciklai\ciklai\obj\Debug\net10.0\refint\ciklai.dll
+c:\Users\Kristina\Desktop\c#\ciklai\ciklai\obj\Debug\net10.0\ciklai.pdb
+c:\Users\Kristina\Desktop\c#\ciklai\ciklai\obj\Debug\net10.0\ciklai.genruntimeconfig.cache
+c:\Users\Kristina\Desktop\c#\ciklai\ciklai\obj\Debug\net10.0\ref\ciklai.dll

@@ -15,5 +15,14 @@
 
         Console.WriteLine("\n---- Task 4 ----");
         Task4.Run();
+
+        Console.WriteLine("\n---- Task 5 ----");
+        Task5.Run();
+
+        Console.WriteLine("\n---- Task 6 ----");
+        Task6.Run();
+
+        Console.WriteLine("\n---- Task 7 ----");
+        Task7.Run();
     }
 }

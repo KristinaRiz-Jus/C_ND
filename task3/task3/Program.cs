@@ -24,5 +24,17 @@
 
         Console.WriteLine("\n---- Task 7 ----");
         Task7.Run();
+
+        Console.WriteLine("\n---- Task 1 list ----");
+        TaskList1.Run();
+
+        Console.WriteLine("\n---- Task 2 list ----");
+        TaskList2.Run();
+
+        Console.WriteLine("\n---- Task 3 list ----");
+        TaskList3.Run();
+
+        Console.WriteLine("\n---- Task 4 list ----");
+        TaskList4.Run();
     }
 }
